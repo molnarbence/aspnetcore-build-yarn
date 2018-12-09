@@ -1,4 +1,4 @@
-FROM microsoft/dotnet:2.1-sdk
+FROM microsoft/dotnet:2.2-sdk
 
 # Install Node.js
 ENV NODE_VERSION 8.9.4
