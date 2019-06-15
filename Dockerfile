@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/core/sdk:3.0.100-preview5-buster
+FROM mcr.microsoft.com/dotnet/core/sdk:3.0.100-preview6
 
 # Install Node.js
 ENV NODE_VERSION 8.9.4
