@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/core/sdk:3.0.100-preview9
+FROM mcr.microsoft.com/dotnet/core/sdk:3.0.100-rc1
 
 # Install Node.js
 ENV NODE_VERSION 8.16.0
